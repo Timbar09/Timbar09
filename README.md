@@ -12,11 +12,14 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Timbar09&style=flat-square&color=orange" alt=""/>
-  
-  <div align="center">
-    <img src="https://media.giphy.com/media/lfBKXBz4ut56BDYOHf/giphy.gif" width="600" height="300"/>
-  </div>
 </div>
+<br/>
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/2z6x8UzzCdBBu/giphy.gif" width="600" height="300"/>
+</div>
+<br/>
 
 ---
 
@@ -33,6 +36,14 @@
 </div>
 
 ---
+<br/>
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="600" height="300"/>
+</div>
+
+---
 
 ### :man_technologist: About Me :
 
@@ -40,3 +51,6 @@
   - 👯 I’m looking to collaborate on any software development project in any area of that require my expertise
   - 🤔 I’m looking for help with getting into the job market ...
   - 📫 How to reach me: tshipimontsho@gmail.com, +267 75733183
+
+
+---
