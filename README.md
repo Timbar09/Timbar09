@@ -7,7 +7,11 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=Timbar09&style=flat-square&color=orange" alt=""/>
 </div>
+
+
+
 
   - 🌱 I’m currently learning React...
   - 👀 I’m interested learning different technologies. I'm curently very familiar with JavaScript,jQuery, Bootstrap, Sass  and css
