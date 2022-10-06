@@ -1,4 +1,4 @@
-<di id="header" align="center">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/ibE2G1af8aMZG/giphy.gif" width="100"/>
   <h1>Hi there 👋 I'm Miles</h1>
 </div>
