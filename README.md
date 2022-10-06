@@ -1,6 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ibE2G1af8aMZG/giphy.gif" width="100"/>
   <h1>Hi there 👋 I'm Miles</h1>
+  
+  <div id="badges">
+    <a href="www.linkedin.com/in/miles-mosweu09">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
 </div>
 
   - 🌱 I’m currently learning React...
