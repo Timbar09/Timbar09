@@ -25,7 +25,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" margin-right="50" title="Git" **alt="Git" width="70" height="70"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="jQuery" **alt="jQuery" width="70" height="70"/>
@@ -48,7 +48,7 @@
 ### :man_technologist: About Me :
 
   - 🌱 I’m currently learning React...
-  - 👯 I’m looking to collaborate on any software development project in any area of that require my expertise
+  - 👯 I’m looking to collaborate on frontend projects
   - 🤔 I’m looking for help with getting into the job market ...
   - 📫 How to reach me: tshipimontsho@gmail.com, +267 75733183
 
