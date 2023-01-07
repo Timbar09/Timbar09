@@ -16,6 +16,17 @@
 <br/>
 <br/>
 
+---
+
+### :man_technologist: About Me :
+
+
+| | |
+| :------| :-----------|
+| <ul><li>🌱 Currently learning Software Development at [Microverse](https://www.microverse.org/)</li><li>👯 I’m looking to collaborate on frontend projects</li><li>🤔 Looking for advice on starting out as a developer</li><li>📫 Reach out to me: by [email](mailto:tshipimontsho@gmail.com), on [LinkedIn](https://www.linkedin.com/in/miles-mosweu09)</ul> | <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" height="250"/> |
+
+---
+
 <div align="center">
   <img src="https://media.giphy.com/media/2z6x8UzzCdBBu/giphy.gif" width="600" height="300"/>
 </div>
@@ -34,23 +45,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="70" height="70"/>&nbsp;
 </div>
-
----
-<br/>
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="600" height="300"/>
-</div>
-
----
-
-### :man_technologist: About Me :
-
-  - 🌱 I’m currently learning React...
-  - 👯 I’m looking to collaborate on frontend projects
-  - 🤔 I’m looking for help with getting into the job market ...
-  - 📫 How to reach me: tshipimontsho@gmail.com, +267 75733183
-
 
 ---
