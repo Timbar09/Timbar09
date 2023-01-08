@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ibE2G1af8aMZG/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="300"/>
   <h1>
     Hi there
     <img src="https://media.giphy.com/media/QuhfLAWmsrjP2HKtdf/giphy.gif" width="30px"/>
@@ -7,11 +7,15 @@
   </h1>
   
   <div id="badges">
-    <a href="https://www.linkedin.com/in/miles-mosweu09">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://www.linkedin.com/in/miles09">
+      <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://twitter.com/Milez09">
+      <img src="https://img.shields.io/badge/twitter-grey?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge"/>
+    </a>
+    
   </div>
-  <img src="https://komarev.com/ghpvc/?username=Timbar09&style=flat-square&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Timbar09&style=plastic&color=blueviolet" alt=""/>
 </div>
 <br/>
 <br/>
@@ -23,7 +27,7 @@
 
 | | |
 | :------| :-----------|
-| <ul><li>🌱 Currently learning Software Development at [Microverse](https://www.microverse.org/)</li><li>👯 I’m looking to collaborate on frontend projects</li><li>🤔 Looking for advice on starting out as a developer</li><li>📫 Reach out to me: by [email](mailto:tshipimontsho@gmail.com), on [LinkedIn](https://www.linkedin.com/in/miles-mosweu09)</ul> | <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" height="250"/> |
+| <ul><li>🌱 Currently learning Software Development at [Microverse](https://www.microverse.org/)</li><li>👯 I’m looking to collaborate on frontend projects</li><li>🤔 Looking for advice on starting out as a developer</li><li>📫 Reach out to me: by [email](mailto:tshipimontsho@gmail.com), on [LinkedIn](https://www.linkedin.com/in/miles-mosweu09), on [Twitter](https://twitter.com/Milez09)</ul> | <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" height="250"/> |
 
 ---
 
