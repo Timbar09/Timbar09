@@ -1,10 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="400" height="150"/>
-  <h1>
-    Hi there
-    <img src="https://media.giphy.com/media/QuhfLAWmsrjP2HKtdf/giphy.gif" width="30px"/>
-    I'm Miles
-  </h1>
+<div id="header">
+  <img src="https://user-images.githubusercontent.com/90119799/226340136-35f3e2fd-8635-46b1-9d0d-bf1e09835117.jpg"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/miles09">
@@ -13,30 +8,19 @@
     <a href="https://twitter.com/Milez09">
       <img src="https://img.shields.io/badge/twitter-grey?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge"/>
     </a>
-    
+    <img src="https://komarev.com/ghpvc/?username=Timbar09&style=plastic&color=blueviolet" alt=""/>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=Timbar09&style=plastic&color=blueviolet" alt=""/>
 </div>
-<br/>
-<br/>
 
 ---
 
 ### :man_technologist: About Me :
 
-
-| | |
-| :------| :-----------|
-| <ul><li>🌱 Currently learning Software Development at [Microverse](https://www.microverse.org/)</li><li>👯 I’m looking to collaborate on frontend projects</li><li>🤔 Looking for advice on starting out as a developer</li><li>📫 Reach out to me: by [email](mailto:tshipimontsho@gmail.com), on [LinkedIn](https://www.linkedin.com/in/miles-mosweu09), on [Twitter](https://twitter.com/Milez09)</ul> | <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" height="250"/> |
-
----
-
-<br /><br /><br />
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
-</div>
-<br/>
+- 🌱 I’m currently learning Software Development at [Microverse](https://www.microverse.org/).
+- 🤔 Looking and open to new opportunities.
+- 👯 Open to collaborate on full-stack projects
+- 💬 Ask me about anything Web development related.
+- 📫 Reach out to me: by [email](mailto:tshipimontsho@gmail.com), on [LinkedIn](https://www.linkedin.com/in/miles-mosweu09).
 
 ---
 
