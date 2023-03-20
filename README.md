@@ -1,4 +1,5 @@
 <div id="header">
+  <img src="https://komarev.com/ghpvc/?username=Timbar09&style=plastic&color=blueviolet" alt=""/>
   <img src="https://user-images.githubusercontent.com/90119799/226340136-35f3e2fd-8635-46b1-9d0d-bf1e09835117.jpg"/>
   
   <div id="badges">
@@ -8,7 +9,6 @@
     <a href="https://twitter.com/Milez09">
       <img src="https://img.shields.io/badge/twitter-grey?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Timbar09&style=plastic&color=blueviolet" alt=""/>
   </div>
 </div>
 
