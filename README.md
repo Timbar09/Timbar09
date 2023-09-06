@@ -38,10 +38,10 @@
 
 ### :man_technologist: About Me :
 
-- 🌱 I’m currently learning Software Development at [Microverse](https://www.microverse.org/).
+- 🌱 I am currently learning Software Development at [Microverse](https://www.microverse.org/).
 - 🤔 Looking for and open to new opportunities.
 - 👯 Open to collaborate on full-stack projects
-- 💬 Ask me about anything Web development-related.
+- 💬 Ask me about anything Web development-related or football-related.
 - 📫 Reach out to me: by [email](mailto:tshipimontsho@gmail.com), on [LinkedIn](https://www.linkedin.com/in/miles-mosweu09).
 
 ---
