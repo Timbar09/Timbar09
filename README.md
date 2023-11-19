@@ -57,7 +57,7 @@
 
 ### :man_technologist: About Me :
 
-- 🌱 I am currently learning `Software Development` at [Microverse](https://www.microverse.org/).
+<!-- - 🌱 I am currently learning `Software Development` at [Microverse](https://www.microverse.org/). -->
 - 🤔 Looking for and open to new opportunities.
 - 👯 Open to collaborating on `front-end`, `back-end`, and `full-stack` projects.
 - 💬 Ask me about anything Web development-related or football-related.
