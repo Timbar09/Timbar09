@@ -14,6 +14,7 @@
 
 ---
 
+## 👨‍💻 Stack
 ### 🎨 Front-end :
 
 <div id="badges">
