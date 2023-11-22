@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
 </div>
 
-### 🖥️ Back-end :
+> ### 🖥️ Back-end :
 
 <div>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby Badge"/>
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
 </div>
 
-### 🔄 Version Control :
+> ### 🔄 Version Control :
 
 <div>
    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
 </div>
 
-## 🛠️ Tools & Skills :
+> ### 🛠️ Tools & Skills :
 
 <div>
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite Badge"/>
@@ -56,7 +56,7 @@
 
 ---
 
-### :man_technologist: About Me :
+## :man_technologist: About Me :
 
 <!-- - 🌱 I am currently learning `Software Development` at [Microverse](https://www.microverse.org/). -->
 - 🤔 Looking for and open to new opportunities.
