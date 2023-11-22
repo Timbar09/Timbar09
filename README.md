@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
 </div>
 
-### 🛠️ Tools & Skills :
+## 🛠️ Tools & Skills :
 
 <div>
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite Badge"/>
