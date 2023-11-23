@@ -62,7 +62,7 @@
 - 🤔 Looking for and open to new opportunities.
 - 👯 Open to collaborating on `front-end`, `back-end`, and `full-stack` projects.
 - 💬 Ask me about anything Web development-related or football-related.
-- 📫 Reach out to me by: [email](mailto:tshipimontsho@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/miles-mosweu09).
+- 📫 Reach out to me by [email](mailto:tshipimontsho@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/miles-mosweu09).
 
 ---
 
