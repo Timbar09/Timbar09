@@ -6,8 +6,11 @@
     <a href="https://www.linkedin.com/in/miles09">
       <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/Milez09">
-      <img src="https://img.shields.io/badge/twitter-grey?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge"/>
+    <a href="https://x.com/Milez09">
+      <img src="https://img.shields.io/badge/X-grey?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+    </a>
+    <a href="https://codepen.io/Timbar09">
+      <img src="https://img.shields.io/badge/Codepen-grey?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen Badge"/>
     </a>
   </div>
 </div>
