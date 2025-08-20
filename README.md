@@ -1,8 +1,13 @@
 <div id="header">
-  <img src="https://komarev.com/ghpvc/?username=Timbar09&style=plastic&color=blueviolet" alt=""/>
+  <!-- Welcome Image Banner -->
   <img width="1052" height="304" alt="Github Readme Welcome Banner -  EDITED" src="https://github.com/user-attachments/assets/791d8055-3223-4c39-8f6b-bb71adf775b3" />
 
-  <div id="badges">
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Timbar09&style=plastic&color=blueviolet" alt=""/>
+  </div>
+
+  <!-- Social Media Badges -->
+  <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/miles09">
       <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
