@@ -24,23 +24,6 @@
 
 > :man_technologist: About Me :
 
-<!--
-  this.skills = {
-    frontend: ["TypeScript", "HTML", "CSS", "JavaScript"],
-    backend: ["Rails", "Node.js"],
-    databases: ["PostgreSQL"],
-    tools: ["Git", "VS Code"]
-  }
-
-  collaborate(project: string) {
-    return `👋 Hi! I'm ${this.name}, interested in collaborating on ${project}. Let's build something amazing together!`;
-  },
-
-  getSkills() {
-    return `💻 Full-stack developer with experience in ${Object.values(this.skills).flat().join(", ")}`;
-  },
--->
-
 ```js
   class DeveloperProfile = {
     constructor() {
